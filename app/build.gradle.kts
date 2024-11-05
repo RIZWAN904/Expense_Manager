@@ -6,6 +6,10 @@ android {
     namespace = "com.example.my_home_expense_manager"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.my_home_expense_manager"
         minSdk = 34
@@ -37,7 +41,9 @@ dependencies {
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+    implementation(libs.room.common)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation ("com.prolificinteractive:material-calendarview:2.0.1")
 }

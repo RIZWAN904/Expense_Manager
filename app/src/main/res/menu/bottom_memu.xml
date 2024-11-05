@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Transcations"
+        android:id="@+id/trans"
+        android:icon="@drawable/ic_book"/>
+
+    <item android:title="States"
+        android:id="@+id/statsa"
+        android:icon="@drawable/ic_chart"/>
+
+    <item android:title="Acoounts"
+        android:id="@+id/acounts"
+        android:icon="@drawable/ic_accounts"/>
+    <item android:title="More"
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"/>
+</menu>

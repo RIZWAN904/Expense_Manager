@@ -2,4 +2,25 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Green">#2ab563</color>
+    <color name="Greendark">#059740</color>
+    <color name="Greenicon">#05AB4A</color>
+
+    <color name="Red">#EF0F3C</color>
+    <color name="category1">#C86E4D</color>
+    <color name="category2">#7A5AC5</color>
+    <color name="category3">#84E032</color>
+    <color name="category4">#B6028C</color>
+    <color name="category5">#076D51</color>
+    <color name="category6">#F4D059</color>
+    <color name="bank_color">#9870EF</color>
+    <color name="cash_color">#08F0CA</color>
+    <color name="card_color">#3EF080</color>
+    <color name="defult_color">#F46433</color>
+
+    <color name="defultcolorbutton">#2C2C2C</color>
+
+
+
+
 </resources>
